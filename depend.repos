@@ -1,0 +1,5 @@
+repositories:
+  pkgs/dep_rocker:
+    type: git 
+    url: git@github.com:blooop/deps_rocker.git
+    version: main 
