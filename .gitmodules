@@ -1,0 +1,24 @@
+[submodule "pkgs/deps_rocker"]
+	path = pkgs/deps_rocker
+	url = https://github.com/blooop/deps_rocker.git
+[submodule "pkgs/pixi_rocker"]
+	path = pkgs/pixi_rocker
+	url = https://github.com/blooop/pixi_rocker.git
+[submodule "pkgs/conda_rocker"]
+	path = pkgs/conda_rocker
+	url = https://github.com/blooop/conda_rocker.git
+[submodule "pkgs/cargo_rocker"]
+	path = pkgs/cargo_rocker
+	url = https://github.com/blooop/cargo_rocker.git
+[submodule "pkgs/palanteer_rocker"]
+	path = pkgs/palanteer_rocker
+	url = https://github.com/blooop/palanteer_rocker.git
+[submodule "pkgs/lazygit_rocker"]
+	path = pkgs/lazygit_rocker
+	url = https://github.com/blooop/lazygit_rocker.git
+[submodule "pkgs/rockerc"]
+	path = pkgs/rockerc
+	url = https://github.com/blooop/rockerc.git
+[submodule "pkgs/rockervsc"]
+	path = pkgs/rockervsc
+	url = https://github.com/blooop/rockervsc.git
