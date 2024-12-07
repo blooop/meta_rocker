@@ -3,3 +3,7 @@ repositories:
     type: git 
     url: git@github.com:blooop/deps_rocker.git
     version: main 
+  pkgs/pixi_rocker:
+    type: git 
+    url: git@github.com:blooop/pixi_rocker.git
+    version: main 
