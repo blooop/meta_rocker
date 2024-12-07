@@ -22,3 +22,6 @@
 [submodule "pkgs/rockervsc"]
 	path = pkgs/rockervsc
 	url = https://github.com/blooop/rockervsc.git
+[submodule "pkgs/template_rocker"]
+	path = pkgs/template_rocker
+	url = https://github.com/blooop/template_rocker.git
